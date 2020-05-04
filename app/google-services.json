@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756066898886",
+    "firebase_url": "https://fir-app-def86.firebaseio.com",
+    "project_id": "fir-app-def86",
+    "storage_bucket": "fir-app-def86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756066898886:android:be8512290de9374a1d58c7",
+        "android_client_info": {
+          "package_name": "com.example.simion.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756066898886-orgrnkpiiio60lnoaobsi1plp0nbba5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZafHr-88fYXKb9CDLdE9vcw-QX24vKAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756066898886-orgrnkpiiio60lnoaobsi1plp0nbba5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
