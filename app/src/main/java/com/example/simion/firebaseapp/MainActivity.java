@@ -42,13 +42,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-/*In this Part(30):
- * ->Post Notifications:
- *   -We will use Firebase Topic Messaging
- *   -We will create settings screen where user can enable/disable post notification
- *   -Add menu item "Settings" in menu_main.xml to access Settings Activity
- *   -I'm only creating notifications for posts, but using this tutorial you can implement notifications for
- *    likes, comments etc too.
- * ->Require Libraries
- *   -Volley                    [Already added for chat notification]
- *   -Firebase cloud messaging  [Already added for chat notification]*/
